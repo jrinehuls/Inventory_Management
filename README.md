@@ -1,2 +1,2 @@
 # Inventory_Management
-A JavaFX inventory management program for a college course project.
+A JavaFX inventory management program. Users interact with a JavaFX GUI to add, delete, and modify parts and products.
